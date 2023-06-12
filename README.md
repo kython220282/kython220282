@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kython220282
-- 👀 I’m interested in microservices, Low Code/No Coe technology but i al like to code things in Python
-- 🌱 I’m currently learning Python cuz i want to start Algo trading
-- 💞️ I’m looking to collaborate on Microservices related project - Frontend or Backend
+- 👀 I’m interested in learning more about Generative AI and its usecases.
+- 🌱 I’m currently learning Python, Streamlite library cuz i want to start Algo trading
 - 📫 Reach me on karan.rajsharma@yahoo.com
 
 <!---
