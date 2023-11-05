@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kython220282
-- 👀 I’m interested in learning more about Generative AI and its usecases.
+- 👀 I’m interested in learning more about Generative AI and its use cases.
 - 🌱 I’m currently learning Python, Streamlite library cuz i want to start Algo trading
 - 📫 Reach me on karan.rajsharma@yahoo.com
 
